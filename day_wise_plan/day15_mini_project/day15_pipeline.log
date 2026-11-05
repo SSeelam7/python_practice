@@ -1,0 +1,6 @@
+customer_ingestion | SUCCESS | 10500
+orders_ingestion | FAILED | 8200
+payments_ingestion | SUCCESS | 15200
+product_ingestion | SUCCESS | 9800
+inventory_ingestion | FAILED | 7300
+shipping_ingestion | SUCCESS | 12400
