@@ -1,5 +1,5 @@
 
-'''#Creating BankAccount class
+#Creating BankAccount class
 class BankAccount:
 
     def __init__(self, owner, balance):
@@ -225,7 +225,7 @@ class Computer:
 computer = Computer()
 computer.start()
 
-'''
+
 from encodings.punycode import selective_find
 
 

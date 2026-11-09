@@ -1,13 +1,5 @@
 
 
-#1:
-1:
-Cannot divide by zero
-Pipeline continues
-2. Yes
-3. Beacuse Error was handled with exception so the program runs till end without crashing at error.
-
-
 
 #2:
 def convert_record_count(value):

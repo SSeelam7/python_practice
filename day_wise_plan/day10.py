@@ -1,8 +1,4 @@
 
-#1:
-1. 5000
-2. No
-3. Because records is local variable, we can access directly only inside the function
 
 #2:
 def create_pipeline_record(
